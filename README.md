@@ -17,7 +17,7 @@ Repo ini berisi materi tentang pemelajaran dalam (deep learning) berbahasa Indon
 - [ ] Membangun pustaka *automatics differentition* sederhana menggunakan python
 - [ ] Mengenal vektor, matrix dan tensor
 - [ ] Mengenal pemelajaran mesin
-- [ ] Menggunakan modul ``torch.autograd`` dari pustakan pytorch 
+- [ ] Menggunakan modul ``torch.autograd`` dari pustaka pytorch 
 - [ ] Mengenal jaringan saraf tiruan
 - [ ] Membangun multilayer perceptron menggunakan modul ``torch.autograd`` dan ``torch.bmm``
 - [ ] Mengenal operasi *convolution* dan *max pooling* 

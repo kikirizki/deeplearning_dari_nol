@@ -3,7 +3,7 @@ Repo ini berisi materi tentang pemelajaran dalam (deep learning) berbahasa Indon
 
 ## TODO
 ### Dasar
-- [ ] Definisi fungsi dan pemetaan
+- [ ] Definisi fungsi dalam matematika
 - [ ] Menggambar grafik fungsi dua dimensi
 - [ ] Menggambar grafik fungsi tiga dimensi
 - [ ] Menggambar grafik fungsi menggunakan pustaka matplotlib

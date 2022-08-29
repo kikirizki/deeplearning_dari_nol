@@ -30,3 +30,7 @@ Repo ini berisi materi tentang pemelajaran dalam (deep learning) berbahasa Indon
 - [ ] Memahami *generative adversarial network*
 - [ ] Memahami *variational autoencoder*
   
+sumber :
+
+- Thomas' Calculus 14th Edition by Joel Hass, Christopher Heil, Maurice Weir
+- https://matplotlib.org/2.0.2/mpl_toolkits/mplot3d/tutorial.html

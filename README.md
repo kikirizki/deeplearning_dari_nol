@@ -3,7 +3,7 @@ Repo ini berisi materi tentang pemelajaran dalam (deep learning) berbahasa Indon
 
 ## TODO
 ### Dasar
-- [ ] Definisi fungsi dalam matematika dan menggambar grafik fungsi menggunakan matplotlib
+- [x] Definisi fungsi dalam matematika dan menggambar grafik fungsi menggunakan matplotlib
 - [ ] Limit dan turunan
 - [ ] Turunan parsial
 - [ ] Optimasi konveks menggunakan *stochastic gradient descent*

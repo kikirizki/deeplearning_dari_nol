@@ -3,7 +3,7 @@ Repo ini berisi materi tentang pemelajaran dalam (deep learning) berbahasa Indon
 
 ## TODO
 ### Dasar
-- [x] Definisi fungsi dalam matematika dan menggambar grafik fungsi menggunakan matplotlib
+- [x] Definisi fungsi dalam matematika dan menggambar grafik fungsi menggunakan matplotlib [![Pytorch](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kikirizki/deeplearning_dari_nol/blob/main/fungsi_dalam_matematika.ipynb)
 - [ ] Limit dan turunan
 - [ ] Turunan parsial
 - [ ] Optimasi konveks menggunakan *stochastic gradient descent*
